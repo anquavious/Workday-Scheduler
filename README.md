@@ -9,7 +9,7 @@ Screenshots of Workday Schedular
 
 ![](Workday%20Scheduler%20Screenshot.jpg)
 
-![](Workday%20Scheduler%20Screenshot.jpg)
+![](Workday%20Scheduler.jpeg)
 
 ## License
 
