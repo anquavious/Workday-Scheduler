@@ -5,7 +5,7 @@
 This application was created to provide a daily planner and provide a schedule for the current business date for a worker who has a busy schedule so they can have a more organized to do list. It assists in managing time more effectively and helping to save current tasks, past tasks, and future tasks in the to do list. It also displays the date at the top of the applciation and has the present, past, and future events color coded so that the worker can differentiate between the tasks. 
 
 ## Usage
-Screenshots of Workday Schedular 
+Screenshots of Workday Scheduler 
 
 ![](Workday%20Scheduler%20Screenshot.jpg)
 
@@ -28,4 +28,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Features
-Current date and time, Event task to-do section, Time slot section, Save button section, Color code for present, past, future
+Current date and time, Event task to-do section, Time slot section, Save button section, Color code for present, past, and future
